@@ -1,0 +1,22 @@
+{
+  "name": "gitmac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gotamix/gitmac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotamix/gitmac/issues"
+  },
+  "homepage": "https://github.com/gotamix/gitmac#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
